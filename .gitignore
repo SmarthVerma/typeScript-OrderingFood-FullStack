@@ -1,0 +1,13 @@
+# Ignore all node_modules directories
+**/node_modules/
+
+# Ignore video format files
+*.avi
+*.mp4
+*.mov
+*.mkv
+*.flv
+*.webm
+*.wmv
+*.mpeg
+*.mpg
